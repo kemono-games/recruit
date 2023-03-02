@@ -4,7 +4,7 @@
 
 ## 测试流程
 
-1. Clone 这个仓库
+1. 创建一个仓库，添加我为协作者（@ITJesse）
 1. 新建一个 feature 分支，feature 名任意
 1. 实现[需求A](#需求a)（会在后面详细说明）
 1. 提交 feature/A -> develop 的 Pull Request
